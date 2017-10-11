@@ -15,6 +15,8 @@
 
 ## RESULTS
 
+Вывод в консоль
+
 https://natasoroka.github.io/FE-pro-HW-20/
 
 
